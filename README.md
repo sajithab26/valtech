@@ -1,4 +1,4 @@
 # 
 
-The tests are written in python in windows platform.
+The tests are written in python on windows platform.
 
